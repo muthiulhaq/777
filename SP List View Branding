@@ -1,0 +1,6 @@
+ <style type="text/css"> /* List View Header */ .ms-listviewtable > thead > tr > th { background-color: rgb(184, 149, 94); } /* List view Header Text color*/ .ms-vh-div, .ms-headerSortTitleLink { color:white!important; font-weight: bold; } /* background color for alternate rows */ .ms-listviewtable > tbody > tr.ms-alternating { background: rgb(244,240,230)} 
+.ms-core-navigation, #WPQ2_ListTitleViewSelectorMenu_Container { DISPLAY: none }
+#contentBox { margin: 20px }
+.ms-list-itemLink, #s4-ribbonrow,#Hero-WPQ2,.ms-list-addnew,.ms-pivotControl-container
+{display: none !important;
+}</style>
